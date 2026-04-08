@@ -1,11 +1,3 @@
-\<p align="center"\>
-\<img src="[https://via.placeholder.com/400x150?text=ADIPATI+RENTAL](https://via.placeholder.com/400x150?text=ADIPATI+RENTAL)" width="400" alt="Adipati Rental Logo"\>
-\</p\>
-
-\<p align="center"\>
-\<strong\>🚗 Online Car Rental & Driver Services System 🚗\</strong\><br>
-Adipati Rental - Kediri City
-\</p\>
 
 -----
 
