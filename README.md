@@ -1,66 +1,110 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+\<p align="center"\>
+\<img src="[https://via.placeholder.com/400x150?text=ADIPATI+RENTAL](https://via.placeholder.com/400x150?text=ADIPATI+RENTAL)" width="400" alt="Adipati Rental Logo"\>
+\</p\>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+\<p align="center"\>
+\<strong\>🚗 Online Car Rental & Driver Services System 🚗\</strong\><br>
+Adipati Rental - Kediri City
+\</p\>
 
-## About Laravel
+-----
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 🌟 About Adipati Rental
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+**Adipati Rental** is a web-based car rental and driver service system designed to make it easier for customers to book vehicles and professional drivers online in **Kediri City**. 📍
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+This system solves the headaches of manual booking via traditional phone calls and WhatsApp by providing:
 
-## Learning Laravel
+  * **Real-time Access:** Check the availability of cars and drivers instantly. ⏱️
+  * **Streamlined Booking:** Online forms that bridge directly to WhatsApp for seamless price negotiation. 📱
+  * **Centralized Admin Dashboard:** A complete control center to manage vehicle status, drivers, branding (logos/banners), and order history. 🛠️
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+The owner (Admin) has full control from a single interface: toggle car/driver availability (**Ready / Unavailable**), perform data management (CRUD), and track order history efficiently.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+-----
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## ✨ Key Features
 
-## Laravel Sponsors
+### 👤 For Customers (Public)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+  * **Real-time Availability:** Browse current lists of cars and drivers.
+  * **Detailed Views:** Check out car interiors and specific amenities. 📸
+  * **Status Indicators:** Instantly see if a driver is **Ready** or **Unavailable**.
+  * **WhatsApp Integration:** Automated redirection from the booking form to chat.
+  * **Hassle-Free:** Place orders without needing to create an account. 🔓
 
-### Premium Partners
+### 🛡️ For Admin (Dashboard)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+  * **Vehicle Management:** Full CRUD (Create, Read, Update, Delete) for the car fleet.
+  * **Driver Management:** Manage driver profiles and toggle their availability.
+  * **Customization:** Easily update the website's logo and promotional banners. 🖼️
+  * **Order Tracking:** View a comprehensive history of all bookings.
+  * **Payment Updates:** Finalize pricing and update order statuses (**Paid / Canceled**). 💰
 
-## Contributing
+-----
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## 💻 Tech Stack
 
-## Code of Conduct
+  * **Framework:** Laravel (PHP) 🐘
+  * **Frontend:** Bootstrap, HTML, CSS, JavaScript 🎨
+  * **Database:** MySQL 🗄️
+  * **Local Server:** XAMPP 🚀
+  * **Integration:** WhatsApp API (Auto-redirect)
+  * **Development Method:** Waterfall Model 🌊
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+-----
 
-## Security Vulnerabilities
+## 📸 Screenshots
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Home Page
+![Home Page](home.png)
 
-## License
+### Car List
+![Car List](car.png)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Car Details
+![Car Detail](detailmobil.png)
+
+### Registration Page
+![Pendaftaran](pendaftaran.png)
+
+### Edit Page
+![Contoh Halaman Edit](halamanedit.png)
+
+### Driver List
+![Driver List](halamansopir.png)
+
+### Driver Details
+![Driver List](detailsopir.png)
+
+### Admin Dashboard (Drivers)
+![Admin Dashboard](admindriver.png)
+
+### Admin Dashboard (Order History)
+![Admin Dashboard](sejarah.png)
+
+### Admin Dashboard (Logo & Banner)
+![Admin Dashboard](logobanner.png)
+
+-----
+
+## 🛠️ How to Use
+
+1.  Visit the website → `/adipati_rental/pendaftaran` 🌐
+2.  Choose an available car and driver. 🚘
+3.  Fill out the booking form. 📝
+4.  Click **Place Order** → WhatsApp will open automatically to finalize the deal\!
+
+*Note: Admins can access the dashboard after logging in to manage all data and statuses.*
+
+-----
+
+## 📜 License
+
+This project was developed as a Final Project for the **D-III Information Technology Vocational Program at Universitas Brawijaya**. 🎓  
+Copyright © 2025 Adipati Rental Kediri City.
+
+-----
+
+> [\!NOTE]
+> **Project Status:** This repository contains the pre-hosting version of the website. The live version includes several improvements and fixes. Please excuse any minor bugs found in this initial release\! 🚧🔧
